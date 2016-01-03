@@ -1,0 +1,58 @@
+Queries executes:
+course.sid	course.grade	course2.grade	
+1	A	A	
+2	B	B	
+3	C	C	
+3	C	C	
+4	D	D	
+5	A	A	
+6	B	B	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+16	E	E	
+17	A	A	
+17	A	A	
+course.grade	course2.grade	
+A	A	
+B	B	
+C	C	
+D	D	
+E	E	
+course.sid	course.homework	course.project	course.exam	course.grade	course2.sid	course2.exam	course2.grade	
+1	99	100	100	A	1	100	A	
